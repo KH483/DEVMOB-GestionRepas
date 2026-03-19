@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95499282467",
+    "project_id": "gestionrepas1",
+    "storage_bucket": "gestionrepas1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95499282467:android:2d6eaff6627ec2be922996",
+        "android_client_info": {
+          "package_name": "com.example.devmob_gestion_repas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQZAlcUkX2BhBRZV_TgDo-vHwUOgRQ8-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
